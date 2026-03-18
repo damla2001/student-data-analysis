@@ -32,4 +32,5 @@ plt.title("Student Average Scores")
 plt.xlabel("Students")
 plt.ylabel("Average Score")
 
+plt.savefig("chart.png")
 plt.show()
